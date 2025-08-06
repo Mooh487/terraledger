@@ -1,10 +1,10 @@
-# 🌍 TerraGold — Frontend for TerraLedger Carbon Exchange
-**TerraGold** is the eco-inspired, community-first frontend of **TerraLedger Carbon Exchange**, Africa’s first AI-powered, blockchain-based carbon credit marketplace. We enable transparent, real-time, and verifiable carbon offsetting - built on Hedera and designed to empower individuals, businesses, and communities to take climate action.
+# 🌍 TerraLedger — Frontend for TerraLedger Carbon Exchange
+**TerraLedger** is the eco-inspired, community-first frontend of **TerraLedger Carbon Exchange**, Africa’s first AI-powered, blockchain-based carbon credit marketplace. We enable transparent, real-time, and verifiable carbon offsetting - built on Hedera and designed to empower individuals, businesses, and communities to take climate action.
 ---
 
-## 🔥 Why TerraGold?
+## 🔥 Why TerraLedger?
 
-Traditional carbon markets are plagued with greenwashing, opacity, and exclusion of local/domestic emissions. TerraGold reimagines this by:
+Traditional carbon markets are plagued with greenwashing, opacity, and exclusion of local/domestic emissions. TerraLedger reimagines this by:
 
 - 🛰️ Leveraging **AI & satellite data** for live verification
 - ♻️ Tokenizing carbon sequestration into **dynamic Carbon NFTs**
@@ -68,8 +68,8 @@ Traditional carbon markets are plagued with greenwashing, opacity, and exclusion
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/terragold.git
-cd terragold
+git clone https://github.com/your-username/terreledger.git
+cd terraledger
 
 # Install dependencies
 npm install
@@ -116,7 +116,7 @@ src/
 
 ## 🔐 Environment Variables
 
-To run TerraGold, create a `.env` file in the root and include:
+To run Terraledger, create a `.env` file in the root and include:
 
 ```env
 VITE_SUPABASE_URL=your-supabase-project-url
@@ -125,5 +125,5 @@ VITE_HEDERA_API_URL=your-mirror-node-endpoint
 
 ```
 
-> TerraGold is not just a product — it’s a movement to put African communities at the center of global climate solutions. 🌍♻️🚀
+> TerraLedger is not just a product — it’s a movement to put African communities at the center of global climate solutions. 🌍♻️🚀
 
